@@ -1,0 +1,45 @@
+.block5{
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+    font-family: "Raleway";
+    padding: .5%;
+    box-sizing: border-box;
+}
+.textblock5{
+ display: flex;
+ width: 100%;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 26px;
+ box-sizing: border-box;
+}
+.part h3{
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 18px;
+    padding-bottom: 6%;
+}
+.block5 div{
+    margin: 4%;
+}
+ul{
+    list-style: none;
+}
+  
+ul li:before {
+    content: '✓';
+}
+.block5 div h2{
+    align-items: center;
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-left: 7%;
+    background: linear-gradient(to bottom, #FFFBED, #e8ce27);
+    color: #000;
+    padding: .5%;
+    margin-right: 67%;
+}
+
+

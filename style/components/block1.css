@@ -1,0 +1,31 @@
+.block1{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin: 40px 125px 0px 100px;
+    font-family: "Raleway";
+}
+.text1 h2{
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    font-size: 50px;
+    font-weight: bolder;
+    line-height: 60px;
+    align-items: center;
+    padding-top: 60px;
+}
+.block1btn{
+    padding: 20px 45px 20px 45px;
+    border: 2px solid #236967;
+    background-color: #236967;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.block1btn:hover{
+    border: 1px solid #236967;
+    background-color: #fff;
+    color: #236967;
+}

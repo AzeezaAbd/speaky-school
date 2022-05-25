@@ -1,0 +1,125 @@
+.block4{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 3%;
+    background-color: #fFFBED;
+    border: 1px solid #fFFBED;
+    border-radius: 30px;
+    border-bottom: 50%;
+    font-family: "Raleway";
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 5%;
+}
+.block4-1{
+    align-items: center;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 5% 0% 0% 18%;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    width: 45%;  
+}
+.block4-2{
+    display: flex;
+    color: #000;
+    margin-left: 18%;
+    margin-top: 3%;
+    width: 40%;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+.block4-2 .adult{
+    padding: 13px 55px;
+    margin-right: 7%;
+    border-bottom: 2px solid #236967;
+}
+.block4-2 .child{
+    border-bottom: 2px solid #94C6C4;
+    padding: 13px 40px;
+}
+select {
+    width: 37%;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 15px;
+    border: 1px solid yellow;
+    background-color: #fff;
+    font-size: 19px;
+    font-family: "Raleway";
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-left: 18%;
+    margin-bottom: 30px;
+}
+.block4-4 form{
+    display: flex;
+    margin-bottom:30px; 
+    margin-left: 18%; 
+    font-size: 18px; 
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 37%;
+    justify-content: space-between;
+}
+.block4-5{
+    display: flex;
+    justify-content: space-between;
+    width: 37%;
+    margin-left: 18%;
+    margin-bottom: 15px;
+    
+}
+.block4-5 input{
+    border: 1px solid yellow;
+    padding: 15px 14px;
+    font-family: "Raleway";
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 19px;
+    color: #000;
+    text-align:left;
+    border-radius: 10px;
+}
+.block4-6 input{
+    border: 1px solid yellow;
+    padding: 15px 15px;
+    font-family: "Raleway";
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 19px;
+    color: #000;
+    text-align:left;
+    border-radius: 10px;
+    width: 42%;
+}
+.block4-6{
+    margin-left: 18%;
+    margin-bottom: 40px;
+}
+.block4-7{
+    margin-left: 18%;
+    margin-bottom: 5%;
+}
+.block4-7 button{
+    color: #fff;
+    background-color: #236967;
+    border-radius: 30px;
+    padding: 18px 35px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Raleway";
+    letter-spacing: 1.5px;
+    border: 1px solid #236967;
+}
+.block4 img{
+    position: absolute;
+    z-index: -1;
+    left: 73%;
+    border-radius: 30px;
+}
